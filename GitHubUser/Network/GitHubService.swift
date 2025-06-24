@@ -12,7 +12,7 @@ final class GitHubAPIClient {
     static let shared = GitHubAPIClient()
     private let session = URLSession.shared
     private let baseURL = "https://api.github.com"
-    private let token = "Bearer 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"
+    private let token = "Bearer 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"
 
     private init() {}
 
